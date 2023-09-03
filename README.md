@@ -1,4 +1,4 @@
-# Predicting Employee Turnover Rate
+# Predicting Employee Turnover
 Dataset: https://www.kaggle.com/datasets/jacksonchou/hr-data-for-analytics <br>
 Analysis instructions from Field (2012). <br>
 Code adapted from Field (2012). 
