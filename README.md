@@ -25,7 +25,7 @@ Code adapted from Field (2012).
 
 ## Developing a Prediction Model
 * Logistic Regression is the statistical method used. This is appropriate when we are attempting to predict a binary outcome.
-* Model was able to predict 21% variance in employee turnover (Cox and Snell's pseudo R^2 = 0.21).
+* Final model was able to predict 21% variance in employee turnover (Cox and Snell's pseudo R^2 = 0.21).
 
 ## What wasn't included?
 * Scores on last evaluation (low generalizability, too closely related to hours worked and number of projects)
@@ -57,9 +57,9 @@ Code adapted from Field (2012).
 * Look to fill open roles by promoting from within
 
 ## Citations
-Field, A., Miles, J., & Field, Z. (2012). Discovering Statistics Using R. SAGE. <br>
-Gatewood, R. D., Feild, H. S., & Barrick, M. R. (2008). Human resource selection. Cengage Learning.<br>
-R Core Team (2013). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL http://www.R-project.org/.
+* Field, A., Miles, J., & Field, Z. (2012). Discovering Statistics Using R. SAGE. 
+* Gatewood, R. D., Feild, H. S., & Barrick, M. R. (2008). Human resource selection. Cengage Learning.
+* R Core Team (2013). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL http://www.R-project.org/.
 
 ## Assumptions Made About the Data:
 * Voluntary and involuntary attrition are both included
